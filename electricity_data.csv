@@ -1,0 +1,10 @@
+Date,Device,Power_Watts,Hours_Used
+2025-10-01,Fridge,150,24
+2025-10-01,LED Bulb,10,5
+2025-10-01,Air Conditioner,1200,8
+2025-10-02,Fridge,150,24
+2025-10-02,LED Bulb,10,6
+2025-10-02,Air Conditioner,1200,7
+2025-10-03,Fridge,150,24
+2025-10-03,LED Bulb,10,5
+2025-10-03,Air Conditioner,1200,9
